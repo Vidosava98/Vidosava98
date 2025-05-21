@@ -1,4 +1,4 @@
-<img src = "logo.png" alt = "Arsic Vidosava" style = "display:flex; text-align: center; justify-content:center; margin-left:auto; margin-right:auto;"/>
+<img src = "logo.png" alt = "Arsic Vidosava" style = "display:flex; text-align: center; justify-content:center; margin-left:5%; "/>
 
 ## Hi there 👋
 
