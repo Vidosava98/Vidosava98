@@ -7,7 +7,7 @@ Hi, I'm Vida — a full stack developer skilled in modern web technologies, back
 ---
 
 - 🌱 I’m currently building my frontend skills.
-- 🔭 I’m currently working on my personal website <a href = "vvidaarsic.netlify.app"></a>. It's built using React, Next.js and Tailwind. Take a look, and give honest feedback. I really glad to hear it.
+- 🔭 I’m currently working on my personal website <a href = "vvidaarsic.netlify.app">vvidaarsic.netlify.app</a>. It's built using React, Next.js and Tailwind. Take a look, and give honest feedback. I really glad to hear it.
 
 ---
 
