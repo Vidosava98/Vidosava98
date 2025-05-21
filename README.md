@@ -1,7 +1,9 @@
+<img src = "twopurplewhite.png" alt = "Arsic Vidosava" style = "display:flex; text-align: center;"/>
 ## Hi there 👋
 ---
-<img src = "twopurplewhite.png" alt = "Arsic Vidosava" style = "display:flex;justify-content: center; margin: 0  auto auto auto;"/>
----
+- 🌱 I’m currently building my frontend skills.
+- 🔭 I’m currently working on my personal website vvidaarsic.netlify.app develop using React, Next.js and Tailwind. Take a look, and give honest feedback. I really glad to hear it. 
+
 <!--
 **Vidosava98/Vidosava98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
