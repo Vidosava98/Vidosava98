@@ -1,5 +1,7 @@
 <img src = "twopurplewhite.png" alt = "Arsic Vidosava" style = "display:flex; text-align: center;"/>
+
 ## Hi there 👋
+
 Hi, I'm Vida — a full stack developer skilled in modern web technologies, backend development, and databases.
 
 ---
