@@ -27,7 +27,7 @@ Hi, I'm Vida — a full stack developer skilled in modern web technologies, back
 ## GitHub stats
 
 <p>
-<img style="text-align:center" src="https://github-readme-stats.vercel.app/api?username=vidosava98&amp;count_private=true&amp;title_color=FD9047&amp;icon_color=FD9047&amp;text_color=0C2233&amp;custom_title=Vida+Arsic's+GitHub+Stats&amp;show_icons=true" 
+<img style="text-align:center" src="https://github-readme-stats.vercel.app/api?username=vidosava98&amp;count_private=true&amp;title_color=FD9047&amp;icon_color=cbacf9&amp;text_color=0C2233&amp;custom_title=Vida+Arsic's+GitHub+Stats&amp;show_icons=true" 
 style="max-width: 100%;">
 </p>
 
