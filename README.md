@@ -24,7 +24,12 @@ Hi, I'm Vida — a full stack developer skilled in modern web technologies, back
 <img alt="C Sharp" src="https://camo.githubusercontent.com/b2ac23b96deab780b5f50492979907f09fac81d27691d9543a921ac48204dd5c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f432532332d3233393132303f6c6f676f3d632d7368617270266c6f676f436f6c6f723d7768697465267374796c653d666f722d7468652d6261646765" data-canonical-src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&amp;logoColor=white&amp;style=for-the-badge" style="max-width: 100%;">
 </div>
 
+## GitHub stats
 
+<p>
+<img style="text-align:center" src="https://github-readme-stats.vercel.app/api?username=vidosava98&amp;count_private=true&amp;title_color=FD9047&amp;icon_color=FD9047&amp;text_color=0C2233&amp;custom_title=Vida+Arsic's+GitHub+Stats&amp;show_icons=true" 
+style="max-width: 100%;">
+</p>
 
 <!--
 **Vidosava98/Vidosava98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
