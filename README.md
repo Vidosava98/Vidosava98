@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src = "twopurple.png" alt = "Arsic Vidosava" style = "display:flex;justify-content: center; margin: 0 auto;"/>
+<img src = "twopurple.png" alt = "Arsic Vidosava" style = "display:flex;justify-content: center; margin: 0  auto auto auto;"/>
 <!--
 **Vidosava98/Vidosava98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
