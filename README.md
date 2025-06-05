@@ -8,7 +8,7 @@ Hi, I'm Vida — a full stack developer skilled in modern web technologies, back
 
 - 🎒 Graduated in 2024, I hold a Bachelor's degree in Electrical Engineering and Computing.
 - 💻 I’m currently building my frontend skills.
-- 🚀 I’m currently working on my personal website <a href = "https://vvidaarsic.netlify.app">vvidaarsic.netlify.app</a>. It's built using React, Next.js and Tailwind. Take a look, and give honest feedback. I really glad to hear it.
+- 🚀 I’m currently working on my personal website <a href = "https://vidosava.netlify.app">vvidaarsic.netlify.app</a>. It's built using React, Next.js and Tailwind. Take a look, and give honest feedback. I really glad to hear it.
 
 ---
 
