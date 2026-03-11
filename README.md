@@ -23,7 +23,6 @@ Hi, I'm Vida — a full stack developer skilled in modern web technologies, back
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 ![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge)
-## GitHub stats
 
 <p>
 <img style="text-align:center" src="https://github-readme-stats.vercel.app/api?username=vidosava98&amp;count_private=true&amp;title_color=cbacf9&amp;icon_color=cbacf9&amp;text_color=133a6f&amp;custom_title=Vida+Arsic's+GitHub+Stats&amp;show_icons=true" 
